@@ -1,4 +1,4 @@
-const strLength = require('./strLength.js')
+const stringLength = require('./strLength.js')
 
 describe('String Length', () => {
     test('Character Count', () => {
