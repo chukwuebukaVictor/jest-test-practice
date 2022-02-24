@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "strLength.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chukwuebukaVictor/jest-test-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chukwuebukaVictor/jest-test-practice.gitissues"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
